@@ -12,6 +12,10 @@ The app holds the data in a database and enables an API to be consumed by the fr
 
 [Repo-React-front-end](https://github.com/Aduda-Boaz/hello-react-front-end)
 
+## front-end PR
+
+[PR-front-end](https://github.com/Aduda-Boaz/hello-react-front-end/pull/1)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
