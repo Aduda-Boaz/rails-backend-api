@@ -1,24 +1,57 @@
-# README
+# hello-react-back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The app holds the data in a database and enables an API to be consumed by the front-end app.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Ruby on rails
+- PostgreSql
 
-* System dependencies
+## front-end Repo
 
-* Configuration
+[Repo-React-front-end](https://github.com/Aduda-Boaz/hello-react-front-end)
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps:
 
-* How to run the test suite
+- Clone the repository:
+- SSH: <git@github.com:Aduda-Boaz/hello-react-front-end.git>
+- Navigate to the project directory in the terminal, run the following command:
 
-* Services (job queues, cache servers, search engines, etc.)
+> bundle install
 
-* Deployment instructions
+- Please run:
 
-* ...
+> rails s
+
+- go to: <http://localhost:3000/api/v1/greetings>
+
+- Open the the react-front-end, navigate to the cloned project directory and run:
+
+> npm start
+
+- go to: <http://localhost:3001>
+
+## Author
+
+👤 **Boaz Aduda**
+
+- GitHub: [@Aduda-Boaz](https://github.com/Aduda-Boaz)
+- Twitter: [@BoazAduda](https://twitter.com/BoazAduda)
+- LinkedIn: [Boaz Aduda](https://www.linkedin.com/in/boaz-aduda/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
