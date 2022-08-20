@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module Api
+module API
   module V1
     class GreetingsController < ApplicationController
       before_action :set_greeting, only: %i[show update destroy]
