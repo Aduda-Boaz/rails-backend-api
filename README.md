@@ -10,7 +10,7 @@ The app holds the data in a database and enables an API to be consumed by the fr
 
 ## front-end Repo
 
-[Repo-React-front-end](https://github.com/Aduda-Boaz/hello-react-front-end)
+[Repo-React-front-end](https://github.com/Aduda-Boaz/hello-frontend)
 
 ## front-end PR
 
@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps:
 
 - go to: <http://localhost:3000/api/v1/greetings>
 
-- Open the the react-front-end, navigate to the cloned project directory and run:
+- Open the the hello-frontend, navigate to the cloned project directory and run:
 
 > npm start
 
